@@ -10,7 +10,7 @@ Si no sirve usar este comando
 py --version
 
 OJO si les sirvio usar el py en vez de python, usenlo de aqui en delante en todos los comandos
-
+--------------------------------------------------------------------------------------------------------------------------------------
 Paso 1:
 Para instalar las dependencias del proyecto
 Ir a la carpeta del proyecto
